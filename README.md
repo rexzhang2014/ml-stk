@@ -1,5 +1,5 @@
 # ml-stk
-Machine Learning algorithms tried on public stock price dataset(China Shanghai/Shenzhen Stock Exchagne)
+Machine Learning algorithms tried on public stock price dataset(Shanghai Stock Exchagne)
 
 # Machine Learning Algorithms
 ## Toolkit
